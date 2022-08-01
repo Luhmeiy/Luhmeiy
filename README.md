@@ -51,5 +51,5 @@
 </p>
 
 <h2 align="left">📈Github Info</h2>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luhmeiy&show_icons=true&locale=en&theme=dracula" alt="luhmeiy"></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula" alt="luhmeiy"></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luhmeiy&show_icons=true&locale=en&theme=dracula&hide_border=true&hide_title=true" alt="luhmeiy"></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula&hide_border=true" alt="luhmeiy"></p>
