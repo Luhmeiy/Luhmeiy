@@ -1,6 +1,7 @@
 <h1 align="left">Hello there 👋</h1>
 <h3 align="left">I'm Luiz Henrique Medeiros, a passionate wannabe full-stack developer from Brazil.</h3>
 
+<h2 align="left">📑Personal Info</h2>
 <h3 align="left">💼 Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
@@ -49,4 +50,6 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luhmeiy&show_icons=true&locale=en" alt="luhmeiy"></p>
+<h2 align="left">📈Github Info</h2>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luhmeiy&show_icons=true&locale=en&theme=dracula" alt="luhmeiy"></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula" alt="luhmeiy"></p>
