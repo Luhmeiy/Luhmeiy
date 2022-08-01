@@ -49,8 +49,4 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luhmeiy&show_icons=true&locale=en" alt="luhmeiy" /></p>
-
-<!--
-**Luhmeiy/Luhmeiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luhmeiy&show_icons=true&locale=en" alt="luhmeiy"></p>
