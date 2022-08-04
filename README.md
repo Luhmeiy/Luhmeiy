@@ -40,13 +40,16 @@
   </a> 
 </p>
 
-<h3 align="left">📕 Interested in</h3>
+<h3 align="left">📕 Interested in Learning</h3>
 <p align="left"> 
   <a href="https://angularjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" alt="angularjs"> 
   </a> 
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="vuejs"> 
+  </a>
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="sass"> 
   </a> 
 </p>
 
