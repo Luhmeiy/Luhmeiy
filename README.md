@@ -29,6 +29,9 @@
 
 <h3 align="left">📕 Currently Learning</h3>
 <p align="left"> 
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="express"> 
+  </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"> 
   </a> 
