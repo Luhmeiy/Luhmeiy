@@ -1,71 +1,36 @@
-<h1 align="left">Hello there 👋</h1>
-<h3 align="left">I'm Luiz Henrique Medeiros, a passionate wannabe full-stack developer from Brazil.</h3>
+# Hello there 👋
+Ahoy, I'm Luiz Henrique Medeiros, a front-end developer from Brazil.
 
-<h2 align="left">📑 Personal Info</h2>
-<h3 align="left">⚡ Technologies</h3>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"> 
-  </a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="sass"> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"> 
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"> 
-  </a><br>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python"> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"> 
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"> 
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"> 
-  </a> 
-</p>
+I'm deeply in love with books and writing, so coding seemed like the next reasonable step.
 
-<h3 align="left">📕 Currently Learning</h3>
-<p align="left"> 
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="express"> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"> 
-  </a>
-</p>
+I also enjoy 80s "so bad, it's good" fantasy/sci-fi movies and metalcore.
 
-<h3 align="left">📕 Interested in Learning</h3>
-<p align="left"> 
-  <a href="https://angularjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" alt="angularjs"> 
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactnative"> 
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="vuejs"> 
-  </a>
-</p>
+## 📑 Personal Info
+### ⚡ Tech Stack
 
-<h3 align="left">💬 Connect with me</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/luiz-henrique-medeiros-dos-santos-5488b11bb/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="luiz henrique medeiros dos santos">
-  </a>
-  <a href="https://instagram.com/luhmeiy" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="luhmeiy">
-  </a>
-</p>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-<h2 align="left">📈 Github Info</h2>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luhmeiy&show_icons=true&locale=en&theme=dracula&hide_border=true&hide_title=true" alt="luhmeiy"></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luhmeiy&layout=compact&theme=dracula&hide_border=true" alt="luhmeiy"></p>
+### 📕 Currently Learning
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 📕 Interested in Learning
+![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
+## 📈 Github Info
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luhmeiy&hide_border=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luhmeiy&langs_count=8&layout=compact&hide_border=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+## 💬 Connect with me
+<a href="https://www.linkedin.com/in/luiz-henrique-medeiros-dos-santos-5488b11bb/" target="blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="luiz henrique medeiros dos santos">
+</a>
+<a href="https://instagram.com/luhmeiy" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="luhmeiy">
+</a>
