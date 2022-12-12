@@ -28,7 +28,7 @@ I also enjoy 80s "so bad, it's good" fantasy/sci-fi movies and metalcore.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luhmeiy&langs_count=6&layout=compact&hide=php,hack&hide_border=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💬 Connect with me
-<a href="https://www.linkedin.com/in/luiz-henrique-medeiros-dos-santos-5488b11bb/" target="blank">
+<a href="https://www.linkedin.com/in/luhmeiy/" target="blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="luiz henrique medeiros dos santos">
 </a>
 <a href="https://instagram.com/luhmeiy" target="blank">
