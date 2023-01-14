@@ -31,7 +31,7 @@ I also enjoy 80s "so bad, it's good" fantasy/sci-fi movies and metalcore.
 
 ## 📈 Github Info
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luhmeiy&hide_border=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luhmeiy&langs_count=6&layout=compact&hide=php,hack&hide_border=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luhmeiy&langs_count=7&layout=compact&hide=php,hack&hide_border=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💬 Connect with me
 <a href="https://www.linkedin.com/in/luhmeiy/" target="blank">
