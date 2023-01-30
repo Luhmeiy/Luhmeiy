@@ -1,4 +1,4 @@
-# Hello there 👋
+# Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 Ahoy, I'm Luiz Henrique Medeiros, a front-end developer from Brazil.
 
 I'm deeply in love with books and writing, so coding seemed like the next reasonable step.
