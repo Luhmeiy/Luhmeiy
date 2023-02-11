@@ -5,7 +5,7 @@ I'm deeply in love with books and writing, so coding seemed like the next reason
 
 I also enjoy 80s "so bad, it's good" fantasy/sci-fi movies and metalcore.
 
-#### Discover more about me on [my personal website](https://luhmeiy.github.io/).
+#### Discover more about me on [my personal website](https://luhmeiy.vercel.app/).
 
 ## 📑 Personal Info
 ### ⚡ Tech Stack
