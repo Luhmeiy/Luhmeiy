@@ -30,8 +30,8 @@ I also enjoy 80s "so bad, it's good" fantasy/sci-fi movies and metalcore.
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 ## 📈 Github Info
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luhmeiy&hide_border=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luhmeiy&langs_count=8&layout=compact&hide=php,hack&hide_border=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Luhmeiy&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luhmeiy&langs_count=8&layout=compact&hide=php,hack&hide_border=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💬 Connect with me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luhmeiy/)
