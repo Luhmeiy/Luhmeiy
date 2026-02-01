@@ -35,7 +35,7 @@ I'm currently building **[Hydration Tracker](https://github.com/Luhmeiy/hydratio
 
 ## 📈 Github Info
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=luhmeiy&hide_border=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luhmeiy&langs_count=8&layout=compact&hide=php,hack&hide_border=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=luhmeiy&langs_count=8&layout=compact&hide=php,hack&hide_border=true&theme=dark)
 
 ## 💡 Let's Connect
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luhmeiy/)
